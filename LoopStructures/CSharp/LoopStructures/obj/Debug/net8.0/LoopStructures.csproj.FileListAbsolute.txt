@@ -1,0 +1,14 @@
+C:\Users\Eaupleah\Desktop\Documentations\LoopStructures\CSharp\LoopStructures\bin\Debug\net8.0\LoopStructures.exe
+C:\Users\Eaupleah\Desktop\Documentations\LoopStructures\CSharp\LoopStructures\bin\Debug\net8.0\LoopStructures.deps.json
+C:\Users\Eaupleah\Desktop\Documentations\LoopStructures\CSharp\LoopStructures\bin\Debug\net8.0\LoopStructures.runtimeconfig.json
+C:\Users\Eaupleah\Desktop\Documentations\LoopStructures\CSharp\LoopStructures\bin\Debug\net8.0\LoopStructures.dll
+C:\Users\Eaupleah\Desktop\Documentations\LoopStructures\CSharp\LoopStructures\bin\Debug\net8.0\LoopStructures.pdb
+C:\Users\Eaupleah\Desktop\Documentations\LoopStructures\CSharp\LoopStructures\obj\Debug\net8.0\LoopStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eaupleah\Desktop\Documentations\LoopStructures\CSharp\LoopStructures\obj\Debug\net8.0\LoopStructures.AssemblyInfoInputs.cache
+C:\Users\Eaupleah\Desktop\Documentations\LoopStructures\CSharp\LoopStructures\obj\Debug\net8.0\LoopStructures.AssemblyInfo.cs
+C:\Users\Eaupleah\Desktop\Documentations\LoopStructures\CSharp\LoopStructures\obj\Debug\net8.0\LoopStructures.csproj.CoreCompileInputs.cache
+C:\Users\Eaupleah\Desktop\Documentations\LoopStructures\CSharp\LoopStructures\obj\Debug\net8.0\LoopStructures.dll
+C:\Users\Eaupleah\Desktop\Documentations\LoopStructures\CSharp\LoopStructures\obj\Debug\net8.0\refint\LoopStructures.dll
+C:\Users\Eaupleah\Desktop\Documentations\LoopStructures\CSharp\LoopStructures\obj\Debug\net8.0\LoopStructures.pdb
+C:\Users\Eaupleah\Desktop\Documentations\LoopStructures\CSharp\LoopStructures\obj\Debug\net8.0\LoopStructures.genruntimeconfig.cache
+C:\Users\Eaupleah\Desktop\Documentations\LoopStructures\CSharp\LoopStructures\obj\Debug\net8.0\ref\LoopStructures.dll

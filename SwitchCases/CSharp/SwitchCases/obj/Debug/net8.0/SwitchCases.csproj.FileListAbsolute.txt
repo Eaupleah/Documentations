@@ -1,0 +1,14 @@
+C:\Users\Eaupleah\Desktop\Documentations\SwitchCases\CSharp\SwitchCases\bin\Debug\net8.0\SwitchCases.exe
+C:\Users\Eaupleah\Desktop\Documentations\SwitchCases\CSharp\SwitchCases\bin\Debug\net8.0\SwitchCases.deps.json
+C:\Users\Eaupleah\Desktop\Documentations\SwitchCases\CSharp\SwitchCases\bin\Debug\net8.0\SwitchCases.runtimeconfig.json
+C:\Users\Eaupleah\Desktop\Documentations\SwitchCases\CSharp\SwitchCases\bin\Debug\net8.0\SwitchCases.dll
+C:\Users\Eaupleah\Desktop\Documentations\SwitchCases\CSharp\SwitchCases\bin\Debug\net8.0\SwitchCases.pdb
+C:\Users\Eaupleah\Desktop\Documentations\SwitchCases\CSharp\SwitchCases\obj\Debug\net8.0\SwitchCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eaupleah\Desktop\Documentations\SwitchCases\CSharp\SwitchCases\obj\Debug\net8.0\SwitchCases.AssemblyInfoInputs.cache
+C:\Users\Eaupleah\Desktop\Documentations\SwitchCases\CSharp\SwitchCases\obj\Debug\net8.0\SwitchCases.AssemblyInfo.cs
+C:\Users\Eaupleah\Desktop\Documentations\SwitchCases\CSharp\SwitchCases\obj\Debug\net8.0\SwitchCases.csproj.CoreCompileInputs.cache
+C:\Users\Eaupleah\Desktop\Documentations\SwitchCases\CSharp\SwitchCases\obj\Debug\net8.0\SwitchCases.dll
+C:\Users\Eaupleah\Desktop\Documentations\SwitchCases\CSharp\SwitchCases\obj\Debug\net8.0\refint\SwitchCases.dll
+C:\Users\Eaupleah\Desktop\Documentations\SwitchCases\CSharp\SwitchCases\obj\Debug\net8.0\SwitchCases.pdb
+C:\Users\Eaupleah\Desktop\Documentations\SwitchCases\CSharp\SwitchCases\obj\Debug\net8.0\SwitchCases.genruntimeconfig.cache
+C:\Users\Eaupleah\Desktop\Documentations\SwitchCases\CSharp\SwitchCases\obj\Debug\net8.0\ref\SwitchCases.dll
