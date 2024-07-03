@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eaupleah\\Desktop\\Documentations\\LoopStructures\\CSharp\\LoopStructures\\LoopStructures.csproj": {}
+    "C:\\Users\\Eaupleah\\RiderProjects\\CSharp\\VCardCreation\\VCardCreation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eaupleah\\Desktop\\Documentations\\LoopStructures\\CSharp\\LoopStructures\\LoopStructures.csproj": {
+    "C:\\Users\\Eaupleah\\RiderProjects\\CSharp\\VCardCreation\\VCardCreation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eaupleah\\Desktop\\Documentations\\LoopStructures\\CSharp\\LoopStructures\\LoopStructures.csproj",
-        "projectName": "LoopStructures",
-        "projectPath": "C:\\Users\\Eaupleah\\Desktop\\Documentations\\LoopStructures\\CSharp\\LoopStructures\\LoopStructures.csproj",
+        "projectUniqueName": "C:\\Users\\Eaupleah\\RiderProjects\\CSharp\\VCardCreation\\VCardCreation.csproj",
+        "projectName": "VCardCreation",
+        "projectPath": "C:\\Users\\Eaupleah\\RiderProjects\\CSharp\\VCardCreation\\VCardCreation.csproj",
         "packagesPath": "C:\\Users\\Eaupleah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eaupleah\\Desktop\\Documentations\\LoopStructures\\CSharp\\LoopStructures\\obj\\",
+        "outputPath": "C:\\Users\\Eaupleah\\RiderProjects\\CSharp\\VCardCreation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eaupleah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
