@@ -20,4 +20,4 @@
 #### ```VCardCreation Class:```
 >- ``` Provides methods to create VCard (.vcf) files using StringBuilder. ```
 >- ```Formats user information into VCard format ```
-> - ```Saves .vcf file to the desktop directory.```
+> - ```Saves (.vcf) files to the desktop directory.```
