@@ -9,6 +9,9 @@
 ### Features:
 
 ```RequestApi Class: Contains methods to fetch user data from the Random User API based on user input. It validates the user count and throws a custom UserLimitException if the count exceeds 5000.```
+```It sends a request to the API using HttpClient and awaits the response.```
+```It ensures the API request was successful using response.EnsureSuccessStatusCode(). If not, it handles the HTTP request exception.```
+```It reads the response body and deserializes it using Newtonsoft.Json into a ResponseApi object, which contains a list of VCard objects representing user data.```
 
 ```ExceptionHandling Class: Defines a custom exception (UserLimitException) for handling user limit exceeded scenarios when fetching data from the API.```
 

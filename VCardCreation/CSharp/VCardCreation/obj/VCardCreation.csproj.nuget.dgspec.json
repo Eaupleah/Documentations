@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eaupleah\\RiderProjects\\CSharp\\VCardCreation\\VCardCreation.csproj": {}
+    "C:\\Users\\Eaupleah\\Desktop\\Documentations\\VCardCreation\\CSharp\\VCardCreation\\VCardCreation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eaupleah\\RiderProjects\\CSharp\\VCardCreation\\VCardCreation.csproj": {
+    "C:\\Users\\Eaupleah\\Desktop\\Documentations\\VCardCreation\\CSharp\\VCardCreation\\VCardCreation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eaupleah\\RiderProjects\\CSharp\\VCardCreation\\VCardCreation.csproj",
+        "projectUniqueName": "C:\\Users\\Eaupleah\\Desktop\\Documentations\\VCardCreation\\CSharp\\VCardCreation\\VCardCreation.csproj",
         "projectName": "VCardCreation",
-        "projectPath": "C:\\Users\\Eaupleah\\RiderProjects\\CSharp\\VCardCreation\\VCardCreation.csproj",
+        "projectPath": "C:\\Users\\Eaupleah\\Desktop\\Documentations\\VCardCreation\\CSharp\\VCardCreation\\VCardCreation.csproj",
         "packagesPath": "C:\\Users\\Eaupleah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eaupleah\\RiderProjects\\CSharp\\VCardCreation\\obj\\",
+        "outputPath": "C:\\Users\\Eaupleah\\Desktop\\Documentations\\VCardCreation\\CSharp\\VCardCreation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eaupleah\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zzIPU1LCzno=",
+  "dgSpecHash": "23zgNLhR77Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eaupleah\\RiderProjects\\CSharp\\VCardCreation\\VCardCreation.csproj",
+  "projectFilePath": "C:\\Users\\Eaupleah\\Desktop\\Documentations\\VCardCreation\\CSharp\\VCardCreation\\VCardCreation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eaupleah\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
