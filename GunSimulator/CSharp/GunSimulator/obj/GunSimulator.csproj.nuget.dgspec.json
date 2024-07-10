@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eaupleah\\RiderProjects\\CSharp\\GunSimulator\\GunSimulator.csproj": {}
+    "C:\\Users\\Eaupleah\\Desktop\\Documentations\\GunSimulator\\CSharp\\GunSimulator\\GunSimulator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eaupleah\\RiderProjects\\CSharp\\GunSimulator\\GunSimulator.csproj": {
+    "C:\\Users\\Eaupleah\\Desktop\\Documentations\\GunSimulator\\CSharp\\GunSimulator\\GunSimulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eaupleah\\RiderProjects\\CSharp\\GunSimulator\\GunSimulator.csproj",
+        "projectUniqueName": "C:\\Users\\Eaupleah\\Desktop\\Documentations\\GunSimulator\\CSharp\\GunSimulator\\GunSimulator.csproj",
         "projectName": "GunSimulator",
-        "projectPath": "C:\\Users\\Eaupleah\\RiderProjects\\CSharp\\GunSimulator\\GunSimulator.csproj",
+        "projectPath": "C:\\Users\\Eaupleah\\Desktop\\Documentations\\GunSimulator\\CSharp\\GunSimulator\\GunSimulator.csproj",
         "packagesPath": "C:\\Users\\Eaupleah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eaupleah\\RiderProjects\\CSharp\\GunSimulator\\obj\\",
+        "outputPath": "C:\\Users\\Eaupleah\\Desktop\\Documentations\\GunSimulator\\CSharp\\GunSimulator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eaupleah\\AppData\\Roaming\\NuGet\\NuGet.Config",
