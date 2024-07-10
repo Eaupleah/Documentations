@@ -7,7 +7,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f5ebfc3-cf41-4028-ad00-455402a856ee" name="Changes" comment="" />
+    <list default="true" id="6f5ebfc3-cf41-4028-ad00-455402a856ee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/LoopStructures/obj/Debug/net8.0/LoopStructures.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LoopStructures/obj/Debug/net8.0/LoopStructures.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopStructures/obj/Debug/net8.0/LoopStructures.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LoopStructures/obj/Debug/net8.0/LoopStructures.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopStructures/obj/Debug/net8.0/LoopStructures.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LoopStructures/obj/Debug/net8.0/LoopStructures.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopStructures/obj/LoopStructures.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LoopStructures/obj/LoopStructures.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopStructures/obj/LoopStructures.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/LoopStructures/obj/LoopStructures.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopStructures/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/LoopStructures/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopStructures/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LoopStructures/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopStructures/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LoopStructures/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopStructures/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/LoopStructures/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopStructures/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/LoopStructures/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +26,9 @@
   </component>
   <component name="DpaMonitoringSettings">
     <option name="autoShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -24,26 +38,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.LoopStructures.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.LoopStructures.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\Eaupleah\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\Eaupleah\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\Eaupleah\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Eaupleah\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Eaupleah\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\Eaupleah\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="LoopStructures" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -75,6 +90,7 @@
       <workItem from="1719766923132" duration="110000" />
       <workItem from="1719767047097" duration="1386000" />
       <workItem from="1719768471317" duration="17000" />
+      <workItem from="1720587381429" duration="39000" />
     </task>
     <servers />
   </component>
