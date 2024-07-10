@@ -1,0 +1,14 @@
+C:\Users\Eaupleah\RiderProjects\CSharp\GunSimulation\bin\Debug\net8.0\GunSimulation.exe
+C:\Users\Eaupleah\RiderProjects\CSharp\GunSimulation\bin\Debug\net8.0\GunSimulation.deps.json
+C:\Users\Eaupleah\RiderProjects\CSharp\GunSimulation\bin\Debug\net8.0\GunSimulation.runtimeconfig.json
+C:\Users\Eaupleah\RiderProjects\CSharp\GunSimulation\bin\Debug\net8.0\GunSimulation.dll
+C:\Users\Eaupleah\RiderProjects\CSharp\GunSimulation\bin\Debug\net8.0\GunSimulation.pdb
+C:\Users\Eaupleah\RiderProjects\CSharp\GunSimulation\obj\Debug\net8.0\GunSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eaupleah\RiderProjects\CSharp\GunSimulation\obj\Debug\net8.0\GunSimulation.AssemblyInfoInputs.cache
+C:\Users\Eaupleah\RiderProjects\CSharp\GunSimulation\obj\Debug\net8.0\GunSimulation.AssemblyInfo.cs
+C:\Users\Eaupleah\RiderProjects\CSharp\GunSimulation\obj\Debug\net8.0\GunSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Eaupleah\RiderProjects\CSharp\GunSimulation\obj\Debug\net8.0\GunSimulation.dll
+C:\Users\Eaupleah\RiderProjects\CSharp\GunSimulation\obj\Debug\net8.0\refint\GunSimulation.dll
+C:\Users\Eaupleah\RiderProjects\CSharp\GunSimulation\obj\Debug\net8.0\GunSimulation.pdb
+C:\Users\Eaupleah\RiderProjects\CSharp\GunSimulation\obj\Debug\net8.0\GunSimulation.genruntimeconfig.cache
+C:\Users\Eaupleah\RiderProjects\CSharp\GunSimulation\obj\Debug\net8.0\ref\GunSimulation.dll
