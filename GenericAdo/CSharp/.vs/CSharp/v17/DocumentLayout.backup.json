@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eaupleah\\source\\repos\\CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED437C08-59CF-4F83-A7EF-BD6FD2399F12}|GenericAdo\\GenericAdo.csproj|c:\\users\\eaupleah\\source\\repos\\csharp\\genericado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED437C08-59CF-4F83-A7EF-BD6FD2399F12}|GenericAdo\\GenericAdo.csproj|solutionrelative:genericado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A38309D-CE5E-49A2-B460-8C5B3BB60798}|GenericAdoServices\\GenericAdoServices.csproj|c:\\users\\eaupleah\\source\\repos\\csharp\\genericadoservices\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A38309D-CE5E-49A2-B460-8C5B3BB60798}|GenericAdoServices\\GenericAdoServices.csproj|solutionrelative:genericadoservices\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eaupleah\\source\\repos\\CSharp\\GenericAdo\\Program.cs",
+              "RelativeDocumentMoniker": "GenericAdo\\Program.cs",
+              "ToolTip": "C:\\Users\\Eaupleah\\source\\repos\\CSharp\\GenericAdo\\Program.cs",
+              "RelativeToolTip": "GenericAdo\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:16:29.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Eaupleah\\source\\repos\\CSharp\\GenericAdoServices\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "GenericAdoServices\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\Eaupleah\\source\\repos\\CSharp\\GenericAdoServices\\Services\\IService.cs",
+              "RelativeToolTip": "GenericAdoServices\\Services\\IService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T05:21:34.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

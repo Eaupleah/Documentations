@@ -1,0 +1,12 @@
+C:\Users\Eaupleah\source\repos\CSharp\GenericAdoServices\bin\Debug\net8.0\GenericAdoServices.deps.json
+C:\Users\Eaupleah\source\repos\CSharp\GenericAdoServices\bin\Debug\net8.0\GenericAdoServices.dll
+C:\Users\Eaupleah\source\repos\CSharp\GenericAdoServices\bin\Debug\net8.0\GenericAdoServices.pdb
+C:\Users\Eaupleah\source\repos\CSharp\GenericAdoServices\obj\Debug\net8.0\GenericAdoServices.csproj.AssemblyReference.cache
+C:\Users\Eaupleah\source\repos\CSharp\GenericAdoServices\obj\Debug\net8.0\GenericAdoServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eaupleah\source\repos\CSharp\GenericAdoServices\obj\Debug\net8.0\GenericAdoServices.AssemblyInfoInputs.cache
+C:\Users\Eaupleah\source\repos\CSharp\GenericAdoServices\obj\Debug\net8.0\GenericAdoServices.AssemblyInfo.cs
+C:\Users\Eaupleah\source\repos\CSharp\GenericAdoServices\obj\Debug\net8.0\GenericAdoServices.csproj.CoreCompileInputs.cache
+C:\Users\Eaupleah\source\repos\CSharp\GenericAdoServices\obj\Debug\net8.0\GenericAdoServices.dll
+C:\Users\Eaupleah\source\repos\CSharp\GenericAdoServices\obj\Debug\net8.0\refint\GenericAdoServices.dll
+C:\Users\Eaupleah\source\repos\CSharp\GenericAdoServices\obj\Debug\net8.0\GenericAdoServices.pdb
+C:\Users\Eaupleah\source\repos\CSharp\GenericAdoServices\obj\Debug\net8.0\ref\GenericAdoServices.dll
