@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>CSharp.DatabaseTransformation</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <None Update="ClassGeneration.tt">
+        <Generator>TextTemplatingFileGenerator</Generator>
+        <LastGenOutput>ClassGeneration.cs</LastGenOutput>
+      </None>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="ClassGeneration.cs">
+        <AutoGen>True</AutoGen>
+        <DesignTime>True</DesignTime>
+        <DependentUpon>ClassGeneration.tt</DependentUpon>
+      </Compile>
+    </ItemGroup>
+
+</Project>
