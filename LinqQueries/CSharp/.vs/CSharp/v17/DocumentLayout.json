@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kamal\\Desktop\\csharp\\CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A363DBBD-1E4D-4F14-9834-B9CE5A7F44C3}|DataManager\\DataManager.csproj|c:\\users\\kamal\\desktop\\csharp\\csharp\\datamanager\\models\\academydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A363DBBD-1E4D-4F14-9834-B9CE5A7F44C3}|DataManager\\DataManager.csproj|solutionrelative:datamanager\\models\\academydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A363DBBD-1E4D-4F14-9834-B9CE5A7F44C3}|DataManager\\DataManager.csproj|c:\\users\\kamal\\desktop\\csharp\\csharp\\datamanager\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A363DBBD-1E4D-4F14-9834-B9CE5A7F44C3}|DataManager\\DataManager.csproj|solutionrelative:datamanager\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AcademyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kamal\\Desktop\\csharp\\CSharp\\DataManager\\Models\\AcademyDbContext.cs",
+              "RelativeDocumentMoniker": "DataManager\\Models\\AcademyDbContext.cs",
+              "ToolTip": "C:\\Users\\Kamal\\Desktop\\csharp\\CSharp\\DataManager\\Models\\AcademyDbContext.cs",
+              "RelativeToolTip": "DataManager\\Models\\AcademyDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBQAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:27:10.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Kamal\\Desktop\\csharp\\CSharp\\DataManager\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "DataManager\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Kamal\\Desktop\\csharp\\CSharp\\DataManager\\Models\\Person.cs",
+              "RelativeToolTip": "DataManager\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:27:04.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
